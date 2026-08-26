@@ -7,7 +7,7 @@ Names can contain letters, digits, underscores, and dollar signs
 
 Names must begin with a letter
 
-Names should start with a lowercase letter, and cannot contain whitespace
+Names should start with a lowercase letter, and cannot contain white space
 
 Names can also begin with `$` and `_`
 
