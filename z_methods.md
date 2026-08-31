@@ -36,5 +36,11 @@ Breaking code into separate methods helps improve readability, reusability, and 
 
 `Maintainability`: It’s easier to fix bugs or update code when it's organized into methods.
 
+## Method Call Stack in Java
+Java is an object-oriented and stack-based programming language where methods play a key role in controlling the program's execution flow
 
+When a method is called, Java uses an internal structure known as the call stack to manage execution, variables, and return addresses.
+
+## Call Stack
+The call stack is a data structure used by the program during runtime to manage method calls and local variables. It operates in a Last-In-First-Out `(LIFO)` manner, meaning the last method called is the first one to complete and exit.
 
