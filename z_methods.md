@@ -14,3 +14,15 @@ returnType methodName(parameters) {
  return value; // optional (only if returnType is not void)
 }
 ```
+### Key Components of a Method Declaration:
+Modifier: Defines access level (public, private, protected, default)
+
+Return Type: Specifies what value the method returns or void if no return
+
+Method Name: Name of the method, follows camelCase convention
+
+Parameters: Optional inputs passed to the method
+
+Method Body: Contains the logic or statements to be executed
+
+
