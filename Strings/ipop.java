@@ -5,7 +5,7 @@ public class ipop {
    public static void main(String[] var0) {
       Scanner sc = new Scanner(System.in);
       System.out.print("Enter the string : ");
-      String name = sc.next();
+      String name = sc.nextLine();
       System.out.println(name);
    }
 }
