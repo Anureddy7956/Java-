@@ -14,6 +14,11 @@ returnType methodName(parameters) {
  return value; // optional (only if returnType is not void)
 }
 ```
+### Return
+return the value to the caller method 
+
+stop execution of the function  (one method can't have two returning values)
+
 ## Key Components of a Method Declaration:
 `Modifier`: Defines access level (public, private, protected, default)
 
